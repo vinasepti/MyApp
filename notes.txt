@@ -1,6 +1,8 @@
 Ini jobdesk untuk Vina, Okta, Reza
 
-Pembagian jobdesk :
+Pembagian jobdesk/modul :
 1. Master -> Vina
 2. Transaksi -> Reza
 3. Report -> Okta
+
+Mohon untuk Developer Membuat Folder dan branch masing-masing dengan nama sesuai nama modulnya.
