@@ -1,1 +1,6 @@
 Ini jobdesk untuk Vina, Okta, Reza
+
+Pembagian jobdesk :
+1. Master -> Vina
+2. Transaksi -> Reza
+3. Report -> Okta
