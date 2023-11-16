@@ -2,7 +2,7 @@ Ini jobdesk untuk Vina, Okta, Reza
 
 Pembagian jobdesk/modul :
 1. Master -> Vina
-2. Transaksi -> Reza
-3. Report -> Okta
+2. Transaksi (branch name : Transaksi) -> Reza
+3. Report (branch name : Report) -> Okta
 
 Mohon untuk Developer Membuat Folder dan branch masing-masing dengan nama sesuai nama modulnya.
